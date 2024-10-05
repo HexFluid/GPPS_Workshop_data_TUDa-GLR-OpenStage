@@ -1,3 +1,9 @@
+<p align="center">
+    <img alt="logo" src="figs/logo.png" width="400" />
+</p>
+
+---
+
 # GPPS CFD Workshop Dataset - TUDa-GLR-OpenStage
 This repository hosts the GPPS CFD Workshop submission data for the TUDa-GLR-OpenStage test case. For a comprehensive description of the test case, please go to:
 - [[1](#exp1)] test case and the mean flow measurement data;
@@ -15,6 +21,8 @@ At the moment, the presentation slides and the submission data of the 4th worksh
 - 2nd workshop (2022): https://gpps.global/gpps-2nd-cfd-workshop/
 - 3rd workshop (2023): https://gpps.global/gpps-3rd-cfd-workshop/
 - 4th workshop (2024): https://gpps.global/gpps-4th-cfd-workshop/
+
+
 
 ## References
 [<a id="exp1">1</a>] Klausmann, F., Franke, D., Foret, J., & Schiffer, H. (2022). Transonic Compressor Darmstadt - Open Test Case Introduction of the TUDa Open Test Case. Journal of the Global Power and Propulsion Society, 6, 318–329. [[DOI](https://doi.org/10.33737/jgpps/156120)]
